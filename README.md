@@ -1,6 +1,6 @@
 # data-mining-and-analysis
 # ENERGY PREDICTION FROM SMART METER DATA
-Link to the Challenge --> <https://ieee-dataport.org/competitions/ieee-cis-technical-challenge-energy-prediction-smart-meter-data>
+Link to the Challenge --> [IEEE-CIS TECHNICAL CHALLENGE ON ENERGY PREDICTION FROM SMART METER DATA](https://ieee-dataport.org/competitions/ieee-cis-technical-challenge-energy-prediction-smart-meter-data)
 
 Instructions to run the IPYNB file:
 
