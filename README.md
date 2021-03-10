@@ -4,7 +4,7 @@ Link to the Challenge --> [IEEE-CIS TECHNICAL CHALLENGE ON ENERGY PREDICTION FRO
 
 Instructions to run the IPYNB file:
 
-1. The required dataset can be downloaded from the link to the challenge and should be placed in a folder named data.<br>
+1. The required dataset can be downloaded from the link to the challenge and should be placed in a folder named data in the same working directory.<br>
 	path to consumption.csv --> 'data/consumption.csv'<br>
 	path to addInfo.csv     --> 'data/addInfo.csv'<br>
 	path to weather-min.csv --> 'data/weather-min.csv'<br>
