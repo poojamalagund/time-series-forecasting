@@ -18,5 +18,3 @@ Instructions to run the IPYNB file:
 	statsmodels<br>
 	pmdarima<br>
 	fbprophet<br>
-<br>
-View the code: [Forecasting Energy Consumption](https://nbviewer.jupyter.org/github/poojamalagund/data-mining-and-analysis/blob/main/Forecasting%20Energy%20Consumption.ipynb)
