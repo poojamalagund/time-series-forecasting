@@ -1,4 +1,4 @@
-# data-mining-and-analysis
+# time-series-forecasting
 # ENERGY PREDICTION FROM SMART METER DATA
 Link to the Challenge --> [IEEE-CIS TECHNICAL CHALLENGE ON ENERGY PREDICTION FROM SMART METER DATA](https://ieee-dataport.org/competitions/ieee-cis-technical-challenge-energy-prediction-smart-meter-data)
 
